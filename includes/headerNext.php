@@ -1,6 +1,6 @@
 <div class="firstconatiner ">
     <div class="container-fluid box1">
-        <div class="row w-100">
+        <div class="row w-100 d-flex justify-content-center align-items-center">
 
             <div class="col-lg-2 col-md-2 col-3 col-sm-text-center   d-md-flex justify-content-md-end pe-0   ">
                 <img src="../assests/images/cdiic-logo PNG 1.png" class="img-fluid " />
